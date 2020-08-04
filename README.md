@@ -7,6 +7,6 @@
 </p>
 <p align="center"> <img src="images/home.png" /></p>
 <h2 align="center">Teste o projeto 💻</h2>
-<p>-Execute o comando git clone https://github.com/jean-paulo/semana-omnistack11.git na pasta que deseja baixar o projeto.</p>
+<p>-Execute o comando git clone https://github.com/jean-paulo/BeTheHero.git na pasta que deseja baixar o projeto.</p>
 <p>-Instale as depêndencias do projeto com o comando npm install ou npm i no terminal, na pasta do projeto.</p>
 
