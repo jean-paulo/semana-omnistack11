@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/Node-%20-green />
 <img src=https://img.shields.io/badge/Expo-%20-white />
 </p>
-<p align="center"> <img src="images/home.png" /></p>
+<p align="center"> <img src="images/home.png" width="750" /></p>
 <h2 align="center">Teste o projeto 💻</h2>
 <p>-Execute o comando git clone https://github.com/jean-paulo/BeTheHero.git na pasta que deseja baixar o projeto.</p>
 <p>-Instale as depêndencias do projeto com o comando npm install ou npm i no terminal, na pasta do projeto.</p>
